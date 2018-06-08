@@ -1,0 +1,862 @@
+1528448154456	geckodriver	INFO	Listening on 127.0.0.1:39132
+1528448156876	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448161251	Marionette	INFO	Listening on port 43767
+1528448161590	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528448194332	geckodriver	INFO	Listening on 127.0.0.1:47384
+1528448195253	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448196521	Marionette	INFO	Listening on port 42205
+1528448196632	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528448253489	geckodriver	INFO	Listening on 127.0.0.1:42490
+1528448254714	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448255645	Marionette	INFO	Listening on port 33980
+1528448255758	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528448297288	geckodriver	INFO	Listening on 127.0.0.1:48704
+1528448298398	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448299297	Marionette	INFO	Listening on port 34870
+1528448299401	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528448311830	geckodriver	INFO	Listening on 127.0.0.1:60203
+1528448312940	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448313833	Marionette	INFO	Listening on port 35138
+1528448313946	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528448337783	geckodriver	INFO	Listening on 127.0.0.1:52071
+1528448338979	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448339891	Marionette	INFO	Listening on port 44494
+1528448340004	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528448397053	geckodriver	INFO	Listening on 127.0.0.1:54077
+1528448397813	geckodriver	INFO	Listening on 127.0.0.1:56171
+1528448398009	geckodriver	INFO	Listening on 127.0.0.1:49535
+1528448398285	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448398962	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448399195	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448399421	Marionette	INFO	Listening on port 44056
+1528448399567	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528448400475	Marionette	INFO	Listening on port 39544
+1528448400625	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528448401203	Marionette	INFO	Listening on port 35023
+1528448401577	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528448401935	geckodriver	INFO	Listening on 127.0.0.1:57057
+1528448402108	geckodriver	INFO	Listening on 127.0.0.1:33767
+1528448402221	geckodriver	INFO	Listening on 127.0.0.1:34318
+1528448403336	geckodriver	INFO	Listening on 127.0.0.1:34840
+1528448404083	geckodriver	INFO	Listening on 127.0.0.1:43192
+1528448404189	geckodriver	INFO	Listening on 127.0.0.1:52962
+1528448404380	geckodriver	INFO	Listening on 127.0.0.1:37227
+1528448404591	geckodriver	INFO	Listening on 127.0.0.1:56955
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+1528448407158	geckodriver	INFO	Listening on 127.0.0.1:47542
+1528448407455	geckodriver	INFO	Listening on 127.0.0.1:37976
+1528448407680	geckodriver	INFO	Listening on 127.0.0.1:59968
+1528448407877	geckodriver	INFO	Listening on 127.0.0.1:59779
+1528448407978	geckodriver	INFO	Listening on 127.0.0.1:54200
+1528448408871	geckodriver	INFO	Listening on 127.0.0.1:54700
+1528448409089	geckodriver	INFO	Listening on 127.0.0.1:38370
+1528448409395	geckodriver	INFO	Listening on 127.0.0.1:56306
+1528448409474	geckodriver	INFO	Listening on 127.0.0.1:42539
+1528448409925	geckodriver	INFO	Listening on 127.0.0.1:60671
+1528448410024	geckodriver	INFO	Listening on 127.0.0.1:50924
+1528448413948	geckodriver	INFO	Listening on 127.0.0.1:55407
+1528448414604	geckodriver	INFO	Listening on 127.0.0.1:51062
+1528448416370	geckodriver	INFO	Listening on 127.0.0.1:42756
+1528448417008	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+1528448417289	geckodriver	INFO	Listening on 127.0.0.1:58346
+1528448417535	geckodriver	INFO	Listening on 127.0.0.1:48290
+1528448418210	geckodriver	INFO	Listening on 127.0.0.1:37737
+1528448419033	geckodriver	INFO	Listening on 127.0.0.1:59805
+1528448419136	geckodriver	INFO	Listening on 127.0.0.1:58886
+1528448419281	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448419281	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448419284	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448419284	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448419287	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+1528448419289	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+1528448419292	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+1528448419295	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448419296	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448419296	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+1528448419897	geckodriver	INFO	Listening on 127.0.0.1:42395
+1528448420612	geckodriver	INFO	Listening on 127.0.0.1:39464
+1528448420773	geckodriver	INFO	Listening on 127.0.0.1:59701
+1528448420966	geckodriver	INFO	Listening on 127.0.0.1:43706
+1528448421088	geckodriver	INFO	Listening on 127.0.0.1:46770
+1528448422207	geckodriver	INFO	Listening on 127.0.0.1:45082
+1528448422307	geckodriver	INFO	Listening on 127.0.0.1:35595
+1528448422430	geckodriver	INFO	Listening on 127.0.0.1:33633
+1528448423006	geckodriver	INFO	Listening on 127.0.0.1:48275
+1528448423326	geckodriver	INFO	Listening on 127.0.0.1:52998
+1528448423461	geckodriver	INFO	Listening on 127.0.0.1:57895
+1528448428843	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448428848	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448428853	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448428873	geckodriver	INFO	Listening on 127.0.0.1:44723
+1528448430785	geckodriver	INFO	Listening on 127.0.0.1:44863
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi"ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+: 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+1528448432007	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448432546	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448432546	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448434594	geckodriver	INFO	Listening on 127.0.0.1:36408
+1528448434785	geckodriver	INFO	Listening on 127.0.0.1:44893
+1528448435100	geckodriver	INFO	Listening on 127.0.0.1:35530
+1528448435205	geckodriver	INFO	Listening on 127.0.0.1:34167
+1528448435413	geckodriver	INFO	Listening on 127.0.0.1:50033
+1528448436512	geckodriver	INFO	Listening on 127.0.0.1:47552
+1528448436950	geckodriver	INFO	Listening on 127.0.0.1:45572
+1528448437090	geckodriver	INFO	Listening on 127.0.0.1:39482
+1528448437288	geckodriver	INFO	Listening on 127.0.0.1:49543
+1528448437495	geckodriver	INFO	Listening on 127.0.0.1:35578
+1528448437623	geckodriver	INFO	Listening on 127.0.0.1:51161
+1528448437862	geckodriver	INFO	Listening on 127.0.0.1:41474
+1528448438069	geckodriver	INFO	Listening on 127.0.0.1:55333
+1528448438323	geckodriver	INFO	Listening on 127.0.0.1:52272
+1528448438428	geckodriver	INFO	Listening on 127.0.0.1:45466
+1528448438734	geckodriver	INFO	Listening on 127.0.0.1:56293
+1528448438846	geckodriver	INFO	Listening on 127.0.0.1:37697
+1528448438962	geckodriver	INFO	Listening on 127.0.0.1:40979
+1528448439133	geckodriver	INFO	Listening on 127.0.0.1:54966
+1528448439235	geckodriver	INFO	Listening on 127.0.0.1:44651
+1528448439409	geckodriver	INFO	Listening on 127.0.0.1:55689
+1528448439593	geckodriver	INFO	Listening on 127.0.0.1:44616
+1528448439705	geckodriver	INFO	Listening on 127.0.0.1:49163
+1528448439917	geckodriver	INFO	Listening on 127.0.0.1:46574
+1528448440114	geckodriver	INFO	Listening on 127.0.0.1:38711
+1528448440240	geckodriver	INFO	Listening on 127.0.0.1:36909
+1528448440356	geckodriver	INFO	Listening on 127.0.0.1:34563
+1528448440529	geckodriver	INFO	Listening on 127.0.0.1:38165
+1528448440650	geckodriver	INFO	Listening on 127.0.0.1:38689
+1528448440768	geckodriver	INFO	Listening on 127.0.0.1:36092
+1528448440883	geckodriver	INFO	Listening on 127.0.0.1:59774
+1528448440993	geckodriver	INFO	Listening on 127.0.0.1:57173
+1528448441190	geckodriver	INFO	Listening on 127.0.0.1:41556
+1528448441416	geckodriver	INFO	Listening on 127.0.0.1:39575
+1528448441519	geckodriver	INFO	Listening on 127.0.0.1:51058
+1528448441637	geckodriver	INFO	Listening on 127.0.0.1:52799
+1528448441874	geckodriver	INFO	Listening on 127.0.0.1:58919
+1528448442005	geckodriver	INFO	Listening on 127.0.0.1:33836
+1528448442200	geckodriver	INFO	Listening on 127.0.0.1:44980
+1528448442414	geckodriver	INFO	Listening on 127.0.0.1:37311
+1528448442611	geckodriver	INFO	Listening on 127.0.0.1:48345
+ln: ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi"无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+: 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在ln: 
+无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+1528448442936	geckodriver	INFO	Listening on 127.0.0.1:44763
+1528448443252	geckodriver	INFO	Listening on 127.0.0.1:60974
+1528448443546	geckodriver	INFO	Listening on 127.0.0.1:45553
+1528448443656	geckodriver	INFO	Listening on 127.0.0.1:40886
+1528448443849	geckodriver	INFO	Listening on 127.0.0.1:48517
+[Child 23560] ###!!! ABORT: Aborting on channel error.: file /builddir/build/BUILD/firefox-52.6.0/firefox-52.6.0esr/ipc/glue/MessageChannel.cpp, line 2152
+[Child 23560] ###!!! ABORT: Aborting on channel error.: file /builddir/build/BUILD/firefox-52.6.0/firefox-52.6.0esr/ipc/glue/MessageChannel.cpp, line 2152
+1528448444034	geckodriver	INFO	Listening on 127.0.0.1:49609
+1528448447277	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448447277	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448447280	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448447281	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448447286	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+[Child 23634] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-52.6.0/firefox-52.6.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 322
+[Child 23634] ###!!! ABORT: Aborting on channel error.: file /builddir/build/BUILD/firefox-52.6.0/firefox-52.6.0esr/ipc/glue/MessageChannel.cpp, line 2152
+[Child 23634] ###!!! ABORT: Aborting on channel error.: file /builddir/build/BUILD/firefox-52.6.0/firefox-52.6.0esr/ipc/glue/MessageChannel.cpp, line 2152
+[Child 23593] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-52.6.0/firefox-52.6.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 322
+[Child 23593] ###!!! ABORT: Aborting on channel error.: file /builddir/build/BUILD/firefox-52.6.0/firefox-52.6.0esr/ipc/glue/MessageChannel.cpp, line 2152
+[Child 23593] ###!!! ABORT: Aborting on channel error.: file /builddir/build/BUILD/firefox-52.6.0/firefox-52.6.0esr/ipc/glue/MessageChannel.cpp, line 2152
+1528448448164	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448448171	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448449159	geckodriver	INFO	Listening on 127.0.0.1:46033
+1528448449352	geckodriver	INFO	Listening on 127.0.0.1:60464
+1528448449476	geckodriver	INFO	Listening on 127.0.0.1:47599
+1528448449680	geckodriver	INFO	Listening on 127.0.0.1:51697
+1528448449996	geckodriver	INFO	Listening on 127.0.0.1:38393
+1528448450189	geckodriver	INFO	Listening on 127.0.0.1:46640
+1528448809369	geckodriver	INFO	Listening on 127.0.0.1:54303
+1528448809599	geckodriver	INFO	Listening on 127.0.0.1:49099
+1528448809712	geckodriver	INFO	Listening on 127.0.0.1:48395
+1528448809919	geckodriver	INFO	Listening on 127.0.0.1:44547
+1528448810028	geckodriver	INFO	Listening on 127.0.0.1:39172
+1528448810240	geckodriver	INFO	Listening on 127.0.0.1:60810
+1528448810347	geckodriver	INFO	Listening on 127.0.0.1:37966
+1528448810464	geckodriver	INFO	Listening on 127.0.0.1:34639
+1528448810492	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448810591	geckodriver	INFO	Listening on 127.0.0.1:42010
+1528448810707	geckodriver	INFO	Listening on 127.0.0.1:38469
+1528448810756	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448810873	geckodriver	INFO	Listening on 127.0.0.1:58458
+1528448810935	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448811145	geckodriver	INFO	Listening on 127.0.0.1:36536
+1528448811212	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448811241	geckodriver	INFO	Listening on 127.0.0.1:37445
+1528448811292	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448811659	geckodriver	INFO	Listening on 127.0.0.1:40623
+1528448811813	geckodriver	INFO	Listening on 127.0.0.1:46777
+1528448812062	geckodriver	INFO	Listening on 127.0.0.1:56937
+1528448812338	geckodriver	INFO	Listening on 127.0.0.1:36669
+1528448812600	geckodriver	INFO	Listening on 127.0.0.1:39848
+1528448812718	geckodriver	INFO	Listening on 127.0.0.1:41465
+1528448812971	geckodriver	INFO	Listening on 127.0.0.1:50764
+1528448813255	geckodriver	INFO	Listening on 127.0.0.1:34874
+1528448813357	geckodriver	INFO	Listening on 127.0.0.1:34970
+1528448813482	geckodriver	INFO	Listening on 127.0.0.1:37311
+1528448813871	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448813880	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+1528448813939	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+1528448818334	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448819012	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448819012	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448819012	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448819012	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448819015	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448819015	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448819015	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448819018	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448819018	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448819018	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448819020	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448820059	geckodriver	INFO	Listening on 127.0.0.1:46686
+1528448820177	geckodriver	INFO	Listening on 127.0.0.1:41220
+1528448820307	geckodriver	INFO	Listening on 127.0.0.1:50815
+1528448820438	geckodriver	INFO	Listening on 127.0.0.1:52753
+ln: ln: ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi"无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi"无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+: 文件已存在: 文件已存在
+
+1528448820657	geckodriver	INFO	Listening on 127.0.0.1:47801
+1528448820996	geckodriver	INFO	Listening on 127.0.0.1:47274
+1528448821115	geckodriver	INFO	Listening on 127.0.0.1:41160
+1528448821415	geckodriver	INFO	Listening on 127.0.0.1:33997
+1528448821638	geckodriver	INFO	Listening on 127.0.0.1:53007
+1528448822163	geckodriver	INFO	Listening on 127.0.0.1:51073
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi"ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+: 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+1528448822693	geckodriver	INFO	Listening on 127.0.0.1:36865
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi"无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在: 文件已存在
+
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi"ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+: 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+1528448822719	geckodriver	INFO	Listening on 127.0.0.1:53404
+1528448822933	geckodriver	INFO	Listening on 127.0.0.1:38209
+1528448823216	geckodriver	INFO	Listening on 127.0.0.1:50643
+1528448823328	geckodriver	INFO	Listening on 127.0.0.1:41108
+1528448823532	geckodriver	INFO	Listening on 127.0.0.1:47524
+1528448823862	geckodriver	INFO	Listening on 127.0.0.1:33449
+1528448823975	geckodriver	INFO	Listening on 127.0.0.1:39406
+1528448824280	geckodriver	INFO	Listening on 127.0.0.1:44329
+1528448824506	geckodriver	INFO	Listening on 127.0.0.1:44093
+1528448824623	geckodriver	INFO	Listening on 127.0.0.1:59407
+1528448824887	geckodriver	INFO	Listening on 127.0.0.1:50894
+1528448825093	geckodriver	INFO	Listening on 127.0.0.1:47744
+1528448825301	geckodriver	INFO	Listening on 127.0.0.1:43348
+1528448825409	geckodriver	INFO	Listening on 127.0.0.1:35822
+1528448825545	geckodriver	INFO	Listening on 127.0.0.1:48716
+1528448825808	geckodriver	INFO	Listening on 127.0.0.1:44625
+1528448826154	geckodriver	INFO	Listening on 127.0.0.1:56499
+1528448826514	geckodriver	INFO	Listening on 127.0.0.1:54050
+1528448826541	geckodriver	INFO	Listening on 127.0.0.1:60943
+1528448826720	geckodriver	INFO	Listening on 127.0.0.1:49056
+1528448826832	geckodriver	INFO	Listening on 127.0.0.1:37802
+1528448826946	geckodriver	INFO	Listening on 127.0.0.1:46873
+1528448827174	geckodriver	INFO	Listening on 127.0.0.1:46901
+1528448827380	geckodriver	INFO	Listening on 127.0.0.1:57861
+1528448827506	geckodriver	INFO	Listening on 127.0.0.1:51089
+1528448827633	geckodriver	INFO	Listening on 127.0.0.1:60253
+1528448827853	geckodriver	INFO	Listening on 127.0.0.1:44153
+1528448828275	geckodriver	INFO	Listening on 127.0.0.1:42016
+1528448828276	geckodriver	INFO	Listening on 127.0.0.1:41503
+1528448828359	geckodriver	INFO	Listening on 127.0.0.1:38185
+1528448828677	geckodriver	INFO	Listening on 127.0.0.1:43581
+1528448829386	geckodriver	INFO	Listening on 127.0.0.1:52661
+1528448829524	geckodriver	INFO	Listening on 127.0.0.1:50800
+1528448830043	geckodriver	INFO	Listening on 127.0.0.1:36947
+1528448830697	geckodriver	INFO	Listening on 127.0.0.1:40100
+1528448830825	geckodriver	INFO	Listening on 127.0.0.1:47222
+1528448830946	geckodriver	INFO	Listening on 127.0.0.1:56347
+1528448831064	geckodriver	INFO	Listening on 127.0.0.1:38169
+1528448831309	geckodriver	INFO	Listening on 127.0.0.1:58907
+1528448831542	geckodriver	INFO	Listening on 127.0.0.1:51221
+1528448834366	geckodriver	INFO	Listening on 127.0.0.1:60320
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+1528448837631	geckodriver	INFO	Listening on 127.0.0.1:41314
+1528448837631	geckodriver	INFO	Listening on 127.0.0.1:60299
+1528448839059	geckodriver	INFO	Listening on 127.0.0.1:42577
+1528448839252	geckodriver	INFO	Listening on 127.0.0.1:46895
+1528448839533	geckodriver	INFO	Listening on 127.0.0.1:36275
+1528448842613	geckodriver	INFO	Listening on 127.0.0.1:55592
+1528448842613	geckodriver	INFO	Listening on 127.0.0.1:38714
+1528448842680	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448842707	geckodriver	INFO	Listening on 127.0.0.1:57535
+1528448842828	geckodriver	INFO	Listening on 127.0.0.1:48063
+1528448843015	geckodriver	INFO	Listening on 127.0.0.1:34213
+1528448844581	geckodriver	INFO	Listening on 127.0.0.1:53346
+1528448845388	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448845398	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448845806	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448846178	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+ln: ln: ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi"无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi"无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在: 文件已存在
+
+: 文件已存在
+1528448846292	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+1528448846335	geckodriver	INFO	Listening on 127.0.0.1:40809
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+1528448847316	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+1528448850496	Marionette	INFO	Listening on port 46333
+1528448850935	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448850937	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448850937	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448850939	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448850939	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448850983	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448850990	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448850992	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448851893	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448852272	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448852307	Marionette	INFO	Listening on port 34318
+1528448852310	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448852334	Marionette	INFO	Listening on port 32955
+1528448852360	Marionette	INFO	Listening on port 33779
+1528448852370	geckodriver	INFO	Listening on 127.0.0.1:53056
+1528448852539	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448853142	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448853770	Marionette	INFO	Listening on port 44752
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+1528448859918	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448859918	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448859919	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448859921	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448859923	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+1528448860756	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448860757	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448860759	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448860763	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448860764	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448860765	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448860989	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448861450	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448861552	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448861559	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448861563	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448861569	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448861575	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448861576	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448861737	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448861738	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448861739	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448861757	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448861760	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448861949	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448861955	geckodriver	INFO	Listening on 127.0.0.1:42061
+1528448862847	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448862857	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448862861	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448862863	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448863834	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448863835	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448864395	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+cat: /home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/.fedora-langpack-install: 没有那个文件或目录
+1528448864785	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448864786	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+1528448866788	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+1528448868742	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448868743	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448868768	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448868823	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448868836	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448870641	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448871084	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+1528448872237	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448872380	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448872507	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448872514	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448872680	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi"ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+: 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi"无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi"ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+: 文件已存在
+: 文件已存在
+ln: ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi"无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+: 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+1528448891423	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448897002	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+Maximum number of clients reachedMaximum number of clients reachedError: cannot open display: :0
+Error: cannot open display: :0
+1528448928501	geckodriver	INFO	Listening on 127.0.0.1:41210
+1528448929374	geckodriver	INFO	Listening on 127.0.0.1:45941
+1528448929558	geckodriver	INFO	Listening on 127.0.0.1:44520
+1528448929772	geckodriver	INFO	Listening on 127.0.0.1:51789
+1528448930007	geckodriver	INFO	Listening on 127.0.0.1:60177
+1528448930218	geckodriver	INFO	Listening on 127.0.0.1:55190
+1528448930441	geckodriver	INFO	Listening on 127.0.0.1:49979
+1528448930576	geckodriver	INFO	Listening on 127.0.0.1:53578
+1528448930692	geckodriver	INFO	Listening on 127.0.0.1:44969
+1528448930820	geckodriver	INFO	Listening on 127.0.0.1:34404
+1528448930940	geckodriver	INFO	Listening on 127.0.0.1:34487
+1528448931212	geckodriver	INFO	Listening on 127.0.0.1:49141
+1528448931451	geckodriver	INFO	Listening on 127.0.0.1:36417
+1528448931703	geckodriver	INFO	Listening on 127.0.0.1:46819
+1528448931825	geckodriver	INFO	Listening on 127.0.0.1:47860
+1528448932036	geckodriver	INFO	Listening on 127.0.0.1:43514
+1528448932244	geckodriver	INFO	Listening on 127.0.0.1:44546
+1528448932373	geckodriver	INFO	Listening on 127.0.0.1:39735
+1528448932584	geckodriver	INFO	Listening on 127.0.0.1:60716
+1528448932769	geckodriver	INFO	Listening on 127.0.0.1:54449
+1528448932884	geckodriver	INFO	Listening on 127.0.0.1:50571
+1528448933092	geckodriver	INFO	Listening on 127.0.0.1:53943
+1528448933398	geckodriver	INFO	Listening on 127.0.0.1:35708
+1528448933625	geckodriver	INFO	Listening on 127.0.0.1:38624
+1528448933849	geckodriver	INFO	Listening on 127.0.0.1:57430
+cat: /home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/.fedora-langpack-install: 没有那个文件或目录
+1528448934094	geckodriver	INFO	Listening on 127.0.0.1:59581
+1528448934097	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448934132	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+ln: ln: ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi"无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi"无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在: 文件已存在
+
+: 文件已存在
+1528448934321	geckodriver	INFO	Listening on 127.0.0.1:33704
+1528448934453	geckodriver	INFO	Listening on 127.0.0.1:33929
+1528448934663	geckodriver	INFO	Listening on 127.0.0.1:39777
+1528448934754	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448934754	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448934759	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448934872	geckodriver	INFO	Listening on 127.0.0.1:48519
+1528448934995	geckodriver	INFO	Listening on 127.0.0.1:40524
+1528448935110	geckodriver	INFO	Listening on 127.0.0.1:37285
+1528448935216	geckodriver	INFO	Listening on 127.0.0.1:32989
+1528448935347	geckodriver	INFO	Listening on 127.0.0.1:34690
+1528448935464	geckodriver	INFO	Listening on 127.0.0.1:36478
+1528448935657	geckodriver	INFO	Listening on 127.0.0.1:33679
+1528448935877	geckodriver	INFO	Listening on 127.0.0.1:36370
+1528448935978	geckodriver	INFO	Listening on 127.0.0.1:39539
+1528448936098	geckodriver	INFO	Listening on 127.0.0.1:45102
+1528448936223	geckodriver	INFO	Listening on 127.0.0.1:48881
+1528448936436	geckodriver	INFO	Listening on 127.0.0.1:33418
+1528448936698	geckodriver	INFO	Listening on 127.0.0.1:38484
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+1528448937583	geckodriver	INFO	Listening on 127.0.0.1:48153
+1528448938775	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448943539	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448943723	geckodriver	INFO	Listening on 127.0.0.1:46602
+1528448943723	geckodriver	INFO	Listening on 127.0.0.1:52146
+1528448943760	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448943839	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448943839	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+Maximum number of clients reachedError: cannot open display: :0
+1528448944174	geckodriver	INFO	Listening on 127.0.0.1:38603
+1528448944689	geckodriver	INFO	Listening on 127.0.0.1:44319
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+1528448997794	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448999042	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448999131	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528448999589	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449000001	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449000862	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449001286	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449003791	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449004590	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449005350	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449005374	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449006416	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449266803	geckodriver	INFO	Listening on 127.0.0.1:46432
+1528449267362	geckodriver	INFO	Listening on 127.0.0.1:55619
+1528449267465	geckodriver	INFO	Listening on 127.0.0.1:44663
+1528449268220	geckodriver	INFO	Listening on 127.0.0.1:40598
+1528449268748	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449268749	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449268755	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449269132	geckodriver	INFO	Listening on 127.0.0.1:34830
+1528449269356	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449270111	geckodriver	INFO	Listening on 127.0.0.1:36040
+1528449270419	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449271267	Marionette	INFO	Listening on port 45494
+1528449271268	Marionette	INFO	Listening on port 40657
+1528449271337	Marionette	INFO	Listening on port 36470
+1528449271342	Marionette	INFO	Listening on port 40961
+1528449271784	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528449271803	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528449271807	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528449271830	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528449272061	geckodriver	INFO	Listening on 127.0.0.1:33621
+1528449272297	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449272707	geckodriver	INFO	Listening on 127.0.0.1:43114
+1528449272986	geckodriver	INFO	Listening on 127.0.0.1:57353
+1528449273089	Marionette	INFO	Listening on port 37573
+1528449273238	geckodriver	INFO	Listening on 127.0.0.1:35102
+1528449273447	geckodriver	INFO	Listening on 127.0.0.1:33910
+1528449273501	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528449273801	geckodriver	INFO	Listening on 127.0.0.1:37354
+1528449273901	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+[Child 4026] WARNING: pipe error: 断开的管道: file /builddir/build/BUILD/firefox-52.6.0/firefox-52.6.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 685
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4600D8,name=PContent::Msg_BackUpXResources) Channel error: cannot send/recv
+
+[Child 4026] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /builddir/build/BUILD/firefox-52.6.0/firefox-52.6.0esr/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 22
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x460051,name=PContent::Msg_GetProcessAttributes) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46007B,name=PContent::Msg_PPrintingConstructor) Channel error: cannot send/recv
+
+IPDL protocol error: constructor for actor failed
+[Child 4026] ###!!! ABORT: IPDL error [PContentChild]: "constructor for actor failed". abort()ing as a result.: file /builddir/build/BUILD/firefox-52.6.0/firefox-52.6.0esr/ipc/glue/ProtocolUtils.cpp, line 292
+[Child 4026] ###!!! ABORT: IPDL error [PContentChild]: "constructor for actor failed". abort()ing as a result.: file /builddir/build/BUILD/firefox-52.6.0/firefox-52.6.0esr/ipc/glue/ProtocolUtils.cpp, line 292
+[Child 3989] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-52.6.0/firefox-52.6.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 322
+[Child 3989] ###!!! ABORT: Aborting on channel error.: file /builddir/build/BUILD/firefox-52.6.0/firefox-52.6.0esr/ipc/glue/MessageChannel.cpp, line 2152
+[Child 3989] ###!!! ABORT: Aborting on channel error.: file /builddir/build/BUILD/firefox-52.6.0/firefox-52.6.0esr/ipc/glue/MessageChannel.cpp, line 2152
+1528449274639	geckodriver	INFO	Listening on 127.0.0.1:38686
+1528449318633	geckodriver	INFO	Listening on 127.0.0.1:35066
+1528449319750	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449320450	geckodriver	INFO	Listening on 127.0.0.1:48296
+1528449320571	geckodriver	INFO	Listening on 127.0.0.1:35801
+1528449320880	Marionette	INFO	Listening on port 40789
+1528449320993	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528449321301	geckodriver	INFO	Listening on 127.0.0.1:42274
+1528449321538	geckodriver	INFO	Listening on 127.0.0.1:33552
+1528449321663	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449321838	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449322982	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449323168	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449323442	geckodriver	INFO	Listening on 127.0.0.1:40597
+1528449323656	geckodriver	INFO	Listening on 127.0.0.1:49693
+1528449323917	geckodriver	INFO	Listening on 127.0.0.1:53108
+1528449324047	geckodriver	INFO	Listening on 127.0.0.1:47939
+1528449324187	geckodriver	INFO	Listening on 127.0.0.1:53371
+1528449324817	Marionette	INFO	Listening on port 45314
+1528449324871	Marionette	INFO	Listening on port 45271
+1528449324949	geckodriver	INFO	Listening on 127.0.0.1:50216
+1528449325220	geckodriver	INFO	Listening on 127.0.0.1:34974
+1528449325412	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449325480	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528449325485	geckodriver	INFO	Listening on 127.0.0.1:59652
+1528449325497	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528449325720	geckodriver	INFO	Listening on 127.0.0.1:53109
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+1528449325927	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449325931	geckodriver	INFO	Listening on 127.0.0.1:49571
+1528449326627	geckodriver	INFO	Listening on 127.0.0.1:60231
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+1528449326669	Marionette	INFO	Listening on port 39412
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+1528449327199	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528449327707	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+1528449327921	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449327921	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449327925	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449328043	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+1528449328086	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449328138	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+1528449328335	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+1528449329285	Marionette	INFO	Listening on port 36597
+1528449329963	geckodriver	INFO	Listening on 127.0.0.1:51930
+1528449331364	geckodriver	INFO	Listening on 127.0.0.1:35154
+1528449333880	geckodriver	INFO	Listening on 127.0.0.1:54311
+1528449334572	geckodriver	INFO	Listening on 127.0.0.1:53594
+1528449335286	geckodriver	INFO	Listening on 127.0.0.1:42730
+1528449335565	geckodriver	INFO	Listening on 127.0.0.1:45233
+1528449335825	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449336381	geckodriver	INFO	Listening on 127.0.0.1:40386
+1528449336547	geckodriver	INFO	Listening on 127.0.0.1:53857
+1528449338333	geckodriver	INFO	Listening on 127.0.0.1:38272
+1528449339458	geckodriver	INFO	Listening on 127.0.0.1:44975
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+1528449343826	Marionette	WARN	TLS certificate errors will be ignored for this session
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+1528449348132	geckodriver	INFO	Listening on 127.0.0.1:57697
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+1528449349116	geckodriver	INFO	Listening on 127.0.0.1:59093
+1528449352946	geckodriver	INFO	Listening on 127.0.0.1:41021
+1528449353356	geckodriver	INFO	Listening on 127.0.0.1:46798
+1528449353949	geckodriver	INFO	Listening on 127.0.0.1:50336
+1528449354002	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449354028	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449355773	geckodriver	INFO	Listening on 127.0.0.1:44969
+1528449356382	geckodriver	INFO	Listening on 127.0.0.1:59990
+1528449356703	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449357276	geckodriver	INFO	Listening on 127.0.0.1:50678
+1528449359492	geckodriver	INFO	Listening on 127.0.0.1:46417
+1528449359731	geckodriver	INFO	Listening on 127.0.0.1:38020
+1528449359952	geckodriver	INFO	Listening on 127.0.0.1:45234
+1528449360066	geckodriver	INFO	Listening on 127.0.0.1:56212
+1528449360185	geckodriver	INFO	Listening on 127.0.0.1:51114
+1528449360467	geckodriver	INFO	Listening on 127.0.0.1:56229
+1528449360661	geckodriver	INFO	Listening on 127.0.0.1:60765
+1528449360776	geckodriver	INFO	Listening on 127.0.0.1:60503
+1528449361023	geckodriver	INFO	Listening on 127.0.0.1:44408
+1528449361551	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449361551	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449361553	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449361626	geckodriver	INFO	Listening on 127.0.0.1:46404
+1528449363007	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449363113	geckodriver	INFO	Listening on 127.0.0.1:53311
+1528449363725	geckodriver	INFO	Listening on 127.0.0.1:37073
+1528449363936	geckodriver	INFO	Listening on 127.0.0.1:49900
+1528449364139	geckodriver	INFO	Listening on 127.0.0.1:38751
+1528449364341	geckodriver	INFO	Listening on 127.0.0.1:53316
+1528449364621	Marionette	INFO	Listening on port 37643
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+1528449366396	Marionette	INFO	Listening on port 40810
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+1528449367658	Marionette	INFO	Listening on port 36476
+1528449368805	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449369795	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+1528449370781	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449370782	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449370785	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+1528449370790	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+1528449370894	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+1528449371419	geckodriver	INFO	Listening on 127.0.0.1:50582
+1528449371786	Marionette	INFO	Listening on port 35873
+1528449371828	geckodriver	INFO	Listening on 127.0.0.1:51188
+1528449371946	geckodriver	INFO	Listening on 127.0.0.1:36259
+1528449376409	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449377724	geckodriver	INFO	Listening on 127.0.0.1:43922
+1528449377724	geckodriver	INFO	Listening on 127.0.0.1:55937
+1528449377759	geckodriver	INFO	Listening on 127.0.0.1:53794
+1528449377859	geckodriver	INFO	Listening on 127.0.0.1:52144
+1528449378042	geckodriver	INFO	Listening on 127.0.0.1:54848
+1528449378254	geckodriver	INFO	Listening on 127.0.0.1:41085
+1528449378456	geckodriver	INFO	Listening on 127.0.0.1:40601
+1528449378648	geckodriver	INFO	Listening on 127.0.0.1:59409
+1528449378762	geckodriver	INFO	Listening on 127.0.0.1:44514
+1528449378959	geckodriver	INFO	Listening on 127.0.0.1:37601
+ln: ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+1528449382444	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528449382459	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528449382514	geckodriver	INFO	Listening on 127.0.0.1:44131
+1528449383182	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449383277	Marionette	WARN	TLS certificate errors will be ignored for this session
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+1528449385348	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449389004	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449389004	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449389281	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528449390380	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449390380	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449391928	Marionette	INFO	Listening on port 37055
+1528449392275	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449393283	Marionette	INFO	Listening on port 36707
+1528449393325	Marionette	INFO	Listening on port 32914
+1528449393719	Marionette	INFO	Listening on port 38423
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+1528449396385	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449396385	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449396387	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449396390	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449396392	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449396392	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+1528449399440	geckodriver	INFO	Listening on 127.0.0.1:60117
+1528449400073	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449400874	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449400890	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449401005	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449401112	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449401279	Marionette	INFO	Listening on port 46021
+1528449403707	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+1528449404250	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449404335	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449404337	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449404337	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449404340	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449404342	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449405319	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449406874	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+1528449413430	geckodriver	INFO	Listening on 127.0.0.1:33932
+1528449413432	geckodriver	INFO	Listening on 127.0.0.1:48332
+1528449416343	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449416343	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+1528449417990	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+1528449418068	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449421469	geckodriver	INFO	Listening on 127.0.0.1:44433
+1528449421502	Marionette	INFO	Listening on port 35316
+1528449421568	geckodriver	INFO	Listening on 127.0.0.1:39363
+1528449421682	geckodriver	INFO	Listening on 127.0.0.1:50016
+1528449422258	geckodriver	INFO	Listening on 127.0.0.1:41774
+1528449422427	geckodriver	INFO	Listening on 127.0.0.1:41194
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+1528449422682	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+1528449480699	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449480413	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449480414	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528449480699	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创建符号链接"/home/vansl/.mozilla/extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/langpack-zh-CN@firefox.mozilla.org.xpi": 文件已存在
+ln: 无法创1528450027800	geckodriver	INFO	Listening on 127.0.0.1:53919
+1528450030225	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528450033061	Marionette	INFO	Listening on port 45390
+1528450033268	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528450351982	geckodriver	INFO	Listening on 127.0.0.1:55087
+1528450354004	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528450355843	Marionette	INFO	Listening on port 42562
+1528450356058	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528450505054	geckodriver	INFO	Listening on 127.0.0.1:37411
+1528450506846	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528450508101	Marionette	INFO	Listening on port 35651
+1528450508215	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528450617909	geckodriver	INFO	Listening on 127.0.0.1:40599
+1528450619743	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528450620884	Marionette	INFO	Listening on port 36615
+1528450620994	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528450807068	geckodriver	INFO	Listening on 127.0.0.1:59817
+1528450808261	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528450809186	Marionette	INFO	Listening on port 40715
+1528450809297	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528452742410	geckodriver	INFO	Listening on 127.0.0.1:43479
+1528452744055	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1528452745549	Marionette	INFO	Listening on port 36803
+1528452745658	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 9370] ###!!! ABORT: Aborting on channel error.: file /builddir/build/BUILD/firefox-52.6.0/firefox-52.6.0esr/ipc/glue/MessageChannel.cpp, line 2152
+[Child 9370] ###!!! ABORT: Aborting on channel error.: file /builddir/build/BUILD/firefox-52.6.0/firefox-52.6.0esr/ipc/glue/MessageChannel.cpp, line 2152
