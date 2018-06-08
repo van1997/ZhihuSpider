@@ -1,6 +1,6 @@
 # ZhihuSpider
 
-## 项目基于：[Python分布式爬虫打造搜索引擎](https://coding.imooc.com/class/92.html)
+项目基于：[Python分布式爬虫打造搜索引擎](https://coding.imooc.com/class/92.html)
 
 cookie提取方式：
 1. 浏览器中直接复制
